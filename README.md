@@ -11,4 +11,4 @@
 
 Looking for the download page? ⬇️
 
-https://github.com/LilithRainbows/HabboCustomLauncher/releases/latest
+https://github.com/guccihb1/HabboLauncherPro/releases/latest
